@@ -1,5 +1,5 @@
 # How to Purchase a Home in King County, WA or Where Did My Money Go?
-by Connor Pate and Lavender Zhang
+by **Connor Pate** and **Lavender Zhang**
 
 Undeterred by a global pandemic and national unrest, the median price for a home in 2020 increased to $287,000, "up more than 7 percent from a year earlier" (["Home Prices are Rising, Along with Post-Lockdown Demand," NYT, June 2020](https://www.nytimes.com/2020/06/05/your-money/houses-prices-coronavirus.html)). That increase was recorded in June. As of August, every region, excluding the Northeast, has seen "double-digit, month-over-month increases" (["Existing-Home Sales Continue Record Pace, Soar 24.7% in July," NAR, August 2020](https://www.nar.realtor/newsroom/existing-home-sales-continue-record-pace-soar-24-7-in-july)). This trend, however, is not evenly distributed among metropolitan areas.
 
